@@ -3,7 +3,7 @@
 	url = https://github.com/nosami/OmniSharpServer
 [submodule "third_party/argparse"]
 	path = third_party/argparse
-	url = https://github.com/bewest/argparse
+	url = https://github.com/blueyi/argparse
 [submodule "third_party/bottle"]
 	path = third_party/bottle
 	url = https://github.com/defnull/bottle
